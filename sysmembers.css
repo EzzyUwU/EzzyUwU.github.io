@@ -1,0 +1,14 @@
+body{
+background-color: gray}
+p{
+color: red; font-size:30px}
+h1{
+color: cyan}
+h2{
+color: lime}
+h3{
+color: purple}
+button{
+    background-color: rgb(129, 153, 127);
+    border-radius: 12px;
+}
