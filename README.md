@@ -1,2 +1,2 @@
 # EzzyUwU.github.io
-Utopic Gayos System description and list of alter types
+Utopic Gayos System Members and list of alter types in systems
