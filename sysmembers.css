@@ -1,14 +1,25 @@
-body{
-background-color: gray}
-p{
-color: red; font-size:30px}
-h1{
-color: cyan}
-h2{
-color: lime}
-h3{
-color: purple}
-button{
-    background-color: rgb(129, 153, 127);
-    border-radius: 12px;
+body {
+  background-color: gray
+}
+
+p {
+  color: red; font-size:30px
+}
+
+h1 {
+  color: cyan
+}
+
+h2 {
+  color: lime
+}
+
+h3 {
+  color: purple
+}
+
+button { 
+  /* I didn't even know you could do this lmao That's actually super cool */
+  background-color: rgb(129, 153, 127);
+  border-radius: 12px;
 }
